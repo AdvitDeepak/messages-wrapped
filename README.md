@@ -6,7 +6,7 @@
 
 Let’s face it: *we’re not all great listeners*. With a world of information to keep track of, we can’t expect ourselves to remember *every* birthday, address, or favorite food. Yet, showing loved ones that you can remember small details about them makes them feel heard. 
 
-***messages wrapped*** is here to help! Employs machine learning and natural language processing, ***messages wrapped***  extracts, analyzes, and stores information directly from your direct messages. We created it in hopes that we would never have to send another dreaded belated birthday text or have to ask for a close friend’s dietary restrictions *again*. 
+***messages wrapped*** is here to help! Employing machine learning and natural language processing, ***messages wrapped***  extracts, analyzes, and stores information directly from your direct messages. We created it in hopes that we would never have to send another dreaded belated birthday text or have to ask for a close friend’s dietary restrictions *again*. 
 
 While our original idea had stopped here, our final concept has evolved into a fully-fledged statistical summary of a user’s direct messages. Inspired by Spotify’s annual *“Wrapped on Spotify”*, our team has included a multitude of features including contacts ranked by message frequency, group chat activity, average response time, word boards, and more. 
 
